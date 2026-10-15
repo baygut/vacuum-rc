@@ -1,0 +1,17 @@
+[
+  {
+    "server": "de",
+    "homes": [
+      {
+        "devices": [
+          {
+            "name": "my-vacuum",
+            "localip": "192.168.1.4",
+            "token": "00000000000000000000000000000000",
+            "model": "xiaomi.vacuum.ov51gl"
+          }
+        ]
+      }
+    ]
+  }
+]
