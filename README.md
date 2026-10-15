@@ -145,3 +145,7 @@ actions. If the ids differ, change `SIID`, the `AIID_*` constants,
 | `probe_reverse.py` | One-off test for an undocumented reverse button |
 | `device.example.json` | Shape of the token file |
 | `device.json` | Your token file (git-ignored, not in the repo) |
+
+## License
+
+[MIT](LICENSE). Not affiliated with or endorsed by Xiaomi or Sony.
